@@ -27,7 +27,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - cp .env.example .env
 - Update .env and set your database credentials
 - php artisan key:generate
-- php artisan migrate
 - npm install
 - npm run dev
 - php artisan serve
